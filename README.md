@@ -8,7 +8,3 @@
 版本：Minecraft1.19.2-Fabric 0.14.12
 
 这个整合不会提供minecraft本体，请自行下载！！！
-
-下载链接：https://pan.baidu.com/s/1fu4yPCZ7rWRAwkaL9848-A?pwd=wtlk 
-
-提取码：wtlk 
