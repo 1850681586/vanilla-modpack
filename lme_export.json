@@ -1,0 +1,1102 @@
+[
+  {
+    "modid": "adaptive-tooltips",
+    "name": "Adaptive Tooltips",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "advanced_runtime_resource_pack",
+    "name": "Runtime Resource Pack",
+    "version": "0.6.4"
+  },
+  {
+    "modid": "advancementinfo",
+    "name": "AdvancementInfo",
+    "version": "1.19.1-fabric0.58.5-1.3.1"
+  },
+  {
+    "modid": "alternate-current",
+    "name": "Alternate Current",
+    "version": "1.4.0"
+  },
+  {
+    "modid": "ambientsounds",
+    "name": "Ambient Sounds (Fabric)",
+    "version": "5.2.13"
+  },
+  {
+    "modid": "amecsapi",
+    "name": "Amecs API",
+    "version": "1.3.7+mc22w17a"
+  },
+  {
+    "modid": "architectury",
+    "name": "Architectury",
+    "version": "6.4.62"
+  },
+  {
+    "modid": "armorchroma",
+    "name": "Armor Chroma",
+    "version": "1.2.3"
+  },
+  {
+    "modid": "armorsoundtweak",
+    "name": "Armor Sound Tweak",
+    "version": "6.0.0"
+  },
+  {
+    "modid": "attributefix",
+    "name": "AttributeFix",
+    "version": "17.1.3"
+  },
+  {
+    "modid": "auto_third_person",
+    "name": "Auto Third Person",
+    "version": "1.2.1"
+  },
+  {
+    "modid": "autohud",
+    "name": "Auto HUD",
+    "version": "2.5+1.19.1"
+  },
+  {
+    "modid": "backslot",
+    "name": "BackSlot",
+    "version": "1.2.11"
+  },
+  {
+    "modid": "balm-fabric",
+    "name": "Balm",
+    "version": "4.5.2+0"
+  },
+  {
+    "modid": "bbs",
+    "name": "Better Block Sounds",
+    "version": "${version}"
+  },
+  {
+    "modid": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.3.0.148"
+  },
+  {
+    "modid": "betterf3",
+    "name": "BetterF3",
+    "version": "4.0.0"
+  },
+  {
+    "modid": "bettermounthud",
+    "name": "Better Mount HUD",
+    "version": "1.2.0"
+  },
+  {
+    "modid": "bettertaskbar",
+    "name": "Better Taskbar",
+    "version": "1.5.1"
+  },
+  {
+    "modid": "blur",
+    "name": "Blur (Fabric)",
+    "version": "2.6.0"
+  },
+  {
+    "modid": "boatiview",
+    "name": "Boat Item View Fabric",
+    "version": "0.0.4"
+  },
+  {
+    "modid": "bookshelf",
+    "name": "Bookshelf",
+    "version": "16.2.16"
+  },
+  {
+    "modid": "bsvsb",
+    "name": "Better Sodium Video Settings Button",
+    "version": "3.0.2"
+  },
+  {
+    "modid": "caffeineconfig",
+    "name": "CaffeineConfig",
+    "version": "1.0.0+1.17"
+  },
+  {
+    "modid": "cameraoverhaul",
+    "name": "Camera Overhaul",
+    "version": "1.4.0-fabric-universal"
+  },
+  {
+    "modid": "cardinal-components-base",
+    "name": "Cardinal Components API (base)",
+    "version": "5.0.2"
+  },
+  {
+    "modid": "cardinal-components-block",
+    "name": "Cardinal Components API (blocks)",
+    "version": "5.0.2"
+  },
+  {
+    "modid": "cardinal-components-chunk",
+    "name": "Cardinal Components API (chunks)",
+    "version": "5.0.2"
+  },
+  {
+    "modid": "cardinal-components-entity",
+    "name": "Cardinal Components API (entities)",
+    "version": "5.0.2"
+  },
+  {
+    "modid": "cardinal-components-item",
+    "name": "Cardinal Components API (items)",
+    "version": "5.0.1"
+  },
+  {
+    "modid": "cardinal-components-world",
+    "name": "Cardinal Components API (worlds)",
+    "version": "5.0.2"
+  },
+  {
+    "modid": "cem",
+    "name": "Custom Entity Models",
+    "version": "0.7.1"
+  },
+  {
+    "modid": "charmonium",
+    "name": "Charmonium",
+    "version": "4.2.1"
+  },
+  {
+    "modid": "chat_heads",
+    "name": "Chat Heads",
+    "version": "0.9.0"
+  },
+  {
+    "modid": "cherishedworlds",
+    "name": "Cherished Worlds",
+    "version": "6.0.1+1.19.2"
+  },
+  {
+    "modid": "chunksfadein",
+    "name": "Chunks Fade In",
+    "version": "3.0.7-1.19"
+  },
+  {
+    "modid": "cleancut",
+    "name": "CleanCut",
+    "version": "1.19.2-5.1-fabric"
+  },
+  {
+    "modid": "cloth-api",
+    "name": "Cloth API",
+    "version": "4.0.65"
+  },
+  {
+    "modid": "cloth-basic-math",
+    "name": "cloth-basic-math",
+    "version": "0.6.1"
+  },
+  {
+    "modid": "cloth-client-events-v0",
+    "name": "Cloth Client Events v0",
+    "version": "4.0.65"
+  },
+  {
+    "modid": "cloth-common-events-v1",
+    "name": "Cloth Common Events v1",
+    "version": "4.0.65"
+  },
+  {
+    "modid": "cloth-config",
+    "name": "Cloth Config v8",
+    "version": "8.2.88"
+  },
+  {
+    "modid": "cloth-scissors-api-v1",
+    "name": "Cloth Scissors API v1",
+    "version": "4.0.65"
+  },
+  {
+    "modid": "cloth-utils-v1",
+    "name": "Cloth Utils v1",
+    "version": "4.0.65"
+  },
+  {
+    "modid": "cn_hutool_hutool-all",
+    "name": "hutool-all",
+    "version": "5.8.9"
+  },
+  {
+    "modid": "coat",
+    "name": "Coat",
+    "version": "1.0.0-beta.19+mc22w17a"
+  },
+  {
+    "modid": "com_electronwill_night-config_core",
+    "name": "core",
+    "version": "3.6.5"
+  },
+  {
+    "modid": "com_electronwill_night-config_toml",
+    "name": "toml",
+    "version": "3.6.5"
+  },
+  {
+    "modid": "com_github_llamalad7_mixinextras",
+    "name": "mixinextras",
+    "version": "0.1.1"
+  },
+  {
+    "modid": "com_github_luben_zstd-jni",
+    "name": "zstd-jni",
+    "version": "1.5.2-2"
+  },
+  {
+    "modid": "com_github_wearblackallday_javautils",
+    "name": "JavaUtils",
+    "version": "bd58640372"
+  },
+  {
+    "modid": "com_moandjiezana_toml_toml4j",
+    "name": "toml4j",
+    "version": "0.7.2"
+  },
+  {
+    "modid": "completeconfig-base",
+    "name": "completeconfig-base",
+    "version": "2.0.0-beta.3"
+  },
+  {
+    "modid": "completeconfig-gui-cloth",
+    "name": "completeconfig-gui-cloth",
+    "version": "2.0.0-beta.3"
+  },
+  {
+    "modid": "conditional-mixin",
+    "name": "conditional mixin",
+    "version": "0.3.0"
+  },
+  {
+    "modid": "continuity",
+    "name": "Continuity",
+    "version": "2.0.1+1.19"
+  },
+  {
+    "modid": "convenientnametags",
+    "name": "Convenient Name Tags",
+    "version": "0.3.0"
+  },
+  {
+    "modid": "craftingtweaks",
+    "name": "Crafting Tweaks",
+    "version": "15.1.0"
+  },
+  {
+    "modid": "creativecore",
+    "name": "CreativeCore (Fabric)",
+    "version": "2.9.3"
+  },
+  {
+    "modid": "cull-less-leaves",
+    "name": "Cull Less Leaves",
+    "version": "1.0.6"
+  },
+  {
+    "modid": "cursormod",
+    "name": "Custom Cursor Mod",
+    "version": "1.3.4"
+  },
+  {
+    "modid": "customskinloader",
+    "name": "CustomSkinLoader",
+    "version": "14.15.1"
+  },
+  {
+    "modid": "dashloader",
+    "name": "DashLoader",
+    "version": "4.1.3+1.19"
+  },
+  {
+    "modid": "debugify",
+    "name": "Debugify",
+    "version": "2.8.0"
+  },
+  {
+    "modid": "dev_isxander_settxi_settxi-core",
+    "name": "settxi-core",
+    "version": "2.10.5"
+  },
+  {
+    "modid": "dev_isxander_settxi_settxi-gui",
+    "name": "settxi-gui",
+    "version": "2.10.5"
+  },
+  {
+    "modid": "dev_isxander_settxi_settxi-kotlinx-serialization",
+    "name": "settxi-kotlinx-serialization",
+    "version": "2.10.5"
+  },
+  {
+    "modid": "dev_quantumfusion_hyphen",
+    "name": "Hyphen",
+    "version": "0.2.2"
+  },
+  {
+    "modid": "dev_quantumfusion_taski",
+    "name": "Taski",
+    "version": "1.1.0"
+  },
+  {
+    "modid": "dimthread",
+    "name": "DimensionalThreading",
+    "version": "1.2.7"
+  },
+  {
+    "modid": "disable_custom_worlds_advice",
+    "name": "Disable Custom Worlds Advice",
+    "version": "3.0"
+  },
+  {
+    "modid": "draggable-resource-packs",
+    "name": "Draggable Resource Packs",
+    "version": "3.0.1+build.9"
+  },
+  {
+    "modid": "dynamiccrosshair",
+    "name": "Dynamic Crosshair",
+    "version": "5.0+1.19.2"
+  },
+  {
+    "modid": "dynamiccrosshaircompat",
+    "name": "Dynamic Crosshair Compat",
+    "version": "3.0+1.19.2"
+  },
+  {
+    "modid": "eatinganimationid",
+    "name": "Eating Animation",
+    "version": "1.9"
+  },
+  {
+    "modid": "effective",
+    "name": "Effective",
+    "version": "1.4"
+  },
+  {
+    "modid": "enchdesc",
+    "name": "EnchantmentDescriptions",
+    "version": "13.0.14"
+  },
+  {
+    "modid": "enchlevel-langpatch",
+    "name": "Enchantment Level Language Patch",
+    "version": "1.2.3"
+  },
+  {
+    "modid": "enchlevel-langpatch-conf3",
+    "name": "Enchantment Level Language Patch Config",
+    "version": "3.0.22"
+  },
+  {
+    "modid": "enhanced_attack_indicator",
+    "name": "Enhanced Attack Indicator",
+    "version": "1.0.4+1.19"
+  },
+  {
+    "modid": "enhancedblockentities",
+    "name": "Enhanced Block Entities",
+    "version": "0.7.2+1.19.2"
+  },
+  {
+    "modid": "enhancedvisuals",
+    "name": "Enhanced Visuals (Fabric)",
+    "version": "1.5.9"
+  },
+  {
+    "modid": "error_notifier",
+    "name": "Error Notifier",
+    "version": "1.0.9"
+  },
+  {
+    "modid": "extendedclouds",
+    "name": "Extended Clouds",
+    "version": "1.2.0"
+  },
+  {
+    "modid": "extrasounds",
+    "name": "ExtraSounds",
+    "version": "2.3.1+1.19.2-1.19.1"
+  },
+  {
+    "modid": "fabric-language-kotlin",
+    "name": "Fabric Language Kotlin",
+    "version": "1.9.0+kotlin.1.8.0"
+  },
+  {
+    "modid": "fabrishot",
+    "name": "Fabrishot",
+    "version": "1.9.1"
+  },
+  {
+    "modid": "fallingleaves",
+    "name": "Falling Leaves",
+    "version": "1.13.0+1.19.2"
+  },
+  {
+    "modid": "fastquit",
+    "name": "FastQuit",
+    "version": "2.1.0+1.19-1.19.2"
+  },
+  {
+    "modid": "ferritecore",
+    "name": "FerriteCore",
+    "version": "5.0.3"
+  },
+  {
+    "modid": "fiber",
+    "name": "fiber",
+    "version": "0.23.0-2"
+  },
+  {
+    "modid": "firstperson",
+    "name": "FirstpersonModel",
+    "version": "2.2.0"
+  },
+  {
+    "modid": "foodeffecttooltips",
+    "name": "Food Effect Tooltips",
+    "version": "1.0.1-1.19.2"
+  },
+  {
+    "modid": "forgeconfigapiport",
+    "name": "Forge Config API Port",
+    "version": "4.2.10"
+  },
+  {
+    "modid": "fpsreducer",
+    "name": "FPS Reducer",
+    "version": "1.19.2-2.1"
+  },
+  {
+    "modid": "healthoverlay",
+    "name": "Health Overlay",
+    "version": "7.2.3"
+  },
+  {
+    "modid": "held-item-info",
+    "name": "Held Item Info",
+    "version": "1.4.0"
+  },
+  {
+    "modid": "highlighter",
+    "name": "Highlighter",
+    "version": "1.1.4"
+  },
+  {
+    "modid": "i18nupdatemod",
+    "name": "I18nUpdateMod",
+    "version": "3.2.0"
+  },
+  {
+    "modid": "iceberg",
+    "name": "Iceberg",
+    "version": "1.0.46"
+  },
+  {
+    "modid": "identifier-translation",
+    "name": "标识符翻译",
+    "version": "1_1.19-1.19.2"
+  },
+  {
+    "modid": "iknowwhatimdoing",
+    "name": "I Know What I\u0027m Doing",
+    "version": "4.1.1"
+  },
+  {
+    "modid": "illuminations",
+    "name": "Illuminations",
+    "version": "1.10.11"
+  },
+  {
+    "modid": "imblocker",
+    "name": "IMBlockerFabric",
+    "version": "1.0.20"
+  },
+  {
+    "modid": "indium",
+    "name": "Indium",
+    "version": "1.0.9+mc1.19.2"
+  },
+  {
+    "modid": "inventoryprofilesnext",
+    "name": "Inventory Profiles Next",
+    "version": "1.9.1"
+  },
+  {
+    "modid": "io_github_douira_glsl-transformer",
+    "name": "glsl-transformer",
+    "version": "2.0.0-pre8"
+  },
+  {
+    "modid": "iris",
+    "name": "Iris",
+    "version": "1.5.0"
+  },
+  {
+    "modid": "itemphysic",
+    "name": "ItemPhysic (Fabric)",
+    "version": "1.6.6"
+  },
+  {
+    "modid": "itemswapper",
+    "name": "ItemSwapper",
+    "version": "0.3.2-mc1.19.2"
+  },
+  {
+    "modid": "jade",
+    "name": "Jade",
+    "version": "8.7.3"
+  },
+  {
+    "modid": "jadeaddons",
+    "name": "Jade Addons",
+    "version": "3.0.0"
+  },
+  {
+    "modid": "keymap",
+    "name": "keymap",
+    "version": "0.7.0-beta.1+1.19.2-fabric"
+  },
+  {
+    "modid": "kirin",
+    "name": "Kirin UI",
+    "version": "1.11.1"
+  },
+  {
+    "modid": "kiwi",
+    "name": "Kiwi Lib",
+    "version": "8.1.2"
+  },
+  {
+    "modid": "koro-utils-lib",
+    "name": "Koro Utils Lib",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "ksyxis",
+    "name": "Ksyxis",
+    "version": "1.1"
+  },
+  {
+    "modid": "lambdabettergrass",
+    "name": "LambdaBetterGrass",
+    "version": "1.3.0+1.19"
+  },
+  {
+    "modid": "lambdynlights",
+    "name": "LambDynamicLights",
+    "version": "2.2.0+1.19.2"
+  },
+  {
+    "modid": "lazydfu",
+    "name": "LazyDFU",
+    "version": "0.1.3"
+  },
+  {
+    "modid": "leaf-decay",
+    "name": "Leaf Decay",
+    "version": "1.5.0-1.19.2"
+  },
+  {
+    "modid": "libipn",
+    "name": "libIPN",
+    "version": "2.0.1"
+  },
+  {
+    "modid": "lithium",
+    "name": "Lithium",
+    "version": "0.10.4"
+  },
+  {
+    "modid": "make_bubbles_pop",
+    "name": "Make Bubbles Pop Mod",
+    "version": "0.0.2-1.19"
+  },
+  {
+    "modid": "mambience",
+    "name": "MAmbience",
+    "version": "5.2.0+1.19"
+  },
+  {
+    "modid": "maptooltip",
+    "name": "Map Tooltip",
+    "version": "2.0.0"
+  },
+  {
+    "modid": "memoryleakfix",
+    "name": "memory Leak Fix",
+    "version": "1.19.3-0.7.0"
+  },
+  {
+    "modid": "merchantmarkers",
+    "name": "Merchant Markers",
+    "version": "1.2.3"
+  },
+  {
+    "modid": "midnightlib",
+    "name": "MidnightLib",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.19.2"
+  },
+  {
+    "modid": "minieffects",
+    "name": "Mini Effects",
+    "version": "5.1.0"
+  },
+  {
+    "modid": "mm",
+    "name": "Manningham Mills",
+    "version": "2.1"
+  },
+  {
+    "modid": "mobplaques",
+    "name": "Mob Plaques",
+    "version": "4.0.1"
+  },
+  {
+    "modid": "modelfix",
+    "name": "Model Gap Fix",
+    "version": "1.8"
+  },
+  {
+    "modid": "moderate-loading-screen",
+    "name": "Mod-erate Loading Screen",
+    "version": "1.1.3+1.19"
+  },
+  {
+    "modid": "modmenu",
+    "name": "Mod Menu",
+    "version": "4.1.2"
+  },
+  {
+    "modid": "morechathistory",
+    "name": "MoreChatHistory",
+    "version": "1.1.1"
+  },
+  {
+    "modid": "motionblur",
+    "name": "Motion Blur",
+    "version": "1.0.1+mc1.19"
+  },
+  {
+    "modid": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.22"
+  },
+  {
+    "modid": "mousewheelie",
+    "name": "Mouse Wheelie",
+    "version": "1.10.7+mc1.19.2"
+  },
+  {
+    "modid": "nimble",
+    "name": "Nimble",
+    "version": "3.0.0"
+  },
+  {
+    "modid": "notenoughanimations",
+    "name": "NotEnoughAnimations",
+    "version": "1.6.2"
+  },
+  {
+    "modid": "org_anarres_jcpp",
+    "name": "jcpp",
+    "version": "1.4.14"
+  },
+  {
+    "modid": "org_antlr_antlr4-runtime",
+    "name": "antlr4-runtime",
+    "version": "4.11.1"
+  },
+  {
+    "modid": "org_codehaus_groovy_groovy",
+    "name": "groovy",
+    "version": "3.0.11"
+  },
+  {
+    "modid": "org_codehaus_groovy_groovy-jsr223",
+    "name": "groovy-jsr223",
+    "version": "3.0.11"
+  },
+  {
+    "modid": "org_java-websocket_java-websocket",
+    "name": "Java-WebSocket",
+    "version": "1.5.3"
+  },
+  {
+    "modid": "org_javassist_javassist",
+    "name": "javassist",
+    "version": "3.28.0-GA"
+  },
+  {
+    "modid": "org_jetbrains_kotlin_kotlin-reflect",
+    "name": "kotlin-reflect",
+    "version": "1.8.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlin_kotlin-stdlib",
+    "name": "kotlin-stdlib",
+    "version": "1.8.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlin_kotlin-stdlib-jdk7",
+    "name": "kotlin-stdlib-jdk7",
+    "version": "1.8.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlin_kotlin-stdlib-jdk8",
+    "name": "kotlin-stdlib-jdk8",
+    "version": "1.8.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_atomicfu-jvm",
+    "name": "atomicfu-jvm",
+    "version": "0.18.5"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm",
+    "name": "kotlinx-coroutines-core-jvm",
+    "version": "1.6.4"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-coroutines-jdk8",
+    "name": "kotlinx-coroutines-jdk8",
+    "version": "1.6.4"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-datetime-jvm",
+    "name": "kotlinx-datetime-jvm",
+    "version": "0.4.0"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm",
+    "name": "kotlinx-serialization-cbor-jvm",
+    "version": "1.4.1"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-serialization-core-jvm",
+    "name": "kotlinx-serialization-core-jvm",
+    "version": "1.4.1"
+  },
+  {
+    "modid": "org_jetbrains_kotlinx_kotlinx-serialization-json-jvm",
+    "name": "kotlinx-serialization-json-jvm",
+    "version": "1.4.1"
+  },
+  {
+    "modid": "org_joml_joml",
+    "name": "joml",
+    "version": "1.10.4"
+  },
+  {
+    "modid": "org_reflections_reflections",
+    "name": "reflections",
+    "version": "0.10.2"
+  },
+  {
+    "modid": "particlerain",
+    "name": "Particle Rain",
+    "version": "2.0.0"
+  },
+  {
+    "modid": "passablefoliage",
+    "name": "Passable Foliage",
+    "version": "1.19-fabric-5.0.2"
+  },
+  {
+    "modid": "phosphor",
+    "name": "Phosphor",
+    "version": "0.8.1"
+  },
+  {
+    "modid": "pickupnotifier",
+    "name": "Pick Up Notifier",
+    "version": "4.2.0"
+  },
+  {
+    "modid": "pling",
+    "name": "Pling",
+    "version": "1.5.0"
+  },
+  {
+    "modid": "polymorph",
+    "name": "Polymorph",
+    "version": "0.46.1+1.19.2"
+  },
+  {
+    "modid": "presencefootsteps",
+    "name": "Presence Footsteps",
+    "version": "1.6.4"
+  },
+  {
+    "modid": "pride",
+    "name": "Pride Lib",
+    "version": "1.1.2+1.19"
+  },
+  {
+    "modid": "prism",
+    "name": "Prism",
+    "version": "1.0.3"
+  },
+  {
+    "modid": "puzzle",
+    "name": "Puzzle",
+    "version": "1.4.2-1.19"
+  },
+  {
+    "modid": "puzzle-base",
+    "name": "Puzzle Base",
+    "version": "1.4.2-1.19"
+  },
+  {
+    "modid": "puzzle-gui",
+    "name": "Puzzle GUI",
+    "version": "1.4.2-1.19"
+  },
+  {
+    "modid": "puzzle-models",
+    "name": "Puzzle Models",
+    "version": "1.4.2-1.19"
+  },
+  {
+    "modid": "puzzle-splashscreen",
+    "name": "Puzzle Splash Screen",
+    "version": "1.4.2-1.19"
+  },
+  {
+    "modid": "puzzleslib",
+    "name": "Puzzles Lib",
+    "version": "4.3.12"
+  },
+  {
+    "modid": "rad",
+    "name": "Reload Audio Driver",
+    "version": "1.0.2"
+  },
+  {
+    "modid": "reeses-sodium-options",
+    "name": "Reese\u0027s Sodium Options",
+    "version": "1.4.9+mc1.19.2-build.67"
+  },
+  {
+    "modid": "replaymod",
+    "name": "Replay Mod",
+    "version": "1.19.1-2.6.10"
+  },
+  {
+    "modid": "resolutioncontrol",
+    "name": "ResolutionControl+",
+    "version": "1.19.x-3.0.0"
+  },
+  {
+    "modid": "roughly_enough_loot_tables",
+    "name": "Roughly Enough Loot Tables",
+    "version": "1.19-1.0"
+  },
+  {
+    "modid": "roughlyenoughitems",
+    "name": "Roughly Enough Items",
+    "version": "9.1.580"
+  },
+  {
+    "modid": "roughlyenoughprofessions",
+    "name": "Roughly Enough Professions",
+    "version": "1.1.3"
+  },
+  {
+    "modid": "roughlyenoughresources",
+    "name": "Roughly Enough Resources",
+    "version": "2.6.0"
+  },
+  {
+    "modid": "rsls",
+    "name": "Raise Sound Limit Simplified",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "satin",
+    "name": "Satin",
+    "version": "1.9.0"
+  },
+  {
+    "modid": "settxi-gui-yacl",
+    "name": "Settxi Gui (YetAnotherConfigLib)",
+    "version": "2.10.5"
+  },
+  {
+    "modid": "skinlayers",
+    "name": "3d Skin Layers",
+    "version": "1.5.2-mc1.19.1"
+  },
+  {
+    "modid": "slight-gui-modifications",
+    "name": "\u0027Slight\u0027 GUI Modifications",
+    "version": "2.3.0"
+  },
+  {
+    "modid": "smoothboot",
+    "name": "Smooth Boot",
+    "version": "1.19-1.7.1"
+  },
+  {
+    "modid": "smoothscrollingeverywhere",
+    "name": "Smooth Scrolling Everywhere",
+    "version": "3.0.3-unstable"
+  },
+  {
+    "modid": "smoothswapping",
+    "name": "Smooth Swapping",
+    "version": "0.6"
+  },
+  {
+    "modid": "snowrealmagic",
+    "name": "Snow! Real Magic!",
+    "version": "5.0.5"
+  },
+  {
+    "modid": "sodium",
+    "name": "Sodium",
+    "version": "0.4.4+build.18"
+  },
+  {
+    "modid": "sodium-extra",
+    "name": "Sodium Extra",
+    "version": "0.4.16+mc1.19.2-build.90"
+  },
+  {
+    "modid": "sodium-sight-distance-unlocked",
+    "name": "Sodium Sight Distance Unlocked",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "sound_physics_remastered",
+    "name": "Sound Physics Remastered",
+    "version": "1.19.2-1.0.18"
+  },
+  {
+    "modid": "soundcategories",
+    "name": "Sound Categories",
+    "version": "1.2.4+1.19"
+  },
+  {
+    "modid": "spectrelib",
+    "name": "SpectreLib",
+    "version": "0.11.0+1.19"
+  },
+  {
+    "modid": "spruceui",
+    "name": "SpruceUI",
+    "version": "4.1.0+1.19.2"
+  },
+  {
+    "modid": "subtitle-highlight",
+    "name": "字幕高亮",
+    "version": "5_1.19-1.19.2"
+  },
+  {
+    "modid": "timetolive",
+    "name": "Time To Live",
+    "version": "0.4"
+  },
+  {
+    "modid": "tipsmod",
+    "name": "Tips",
+    "version": "8.0.27"
+  },
+  {
+    "modid": "toastmanager",
+    "name": "Toast Manager",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "travelerstitles",
+    "name": "Traveler\u0027s Titles",
+    "version": "1.19.2-Fabric-3.1.0"
+  },
+  {
+    "modid": "tweed4_annotated",
+    "name": "tweed4_annotated",
+    "version": "1.3.1+mc22w17a"
+  },
+  {
+    "modid": "tweed4_base",
+    "name": "tweed4_base",
+    "version": "1.7.1+mc22w17a"
+  },
+  {
+    "modid": "tweed4_data",
+    "name": "tweed4_data",
+    "version": "1.2.1+mc22w17a"
+  },
+  {
+    "modid": "tweed4_data_hjson",
+    "name": "tweed4_data_hjson",
+    "version": "1.1.1+mc22w17a"
+  },
+  {
+    "modid": "tweed4_tailor_coat",
+    "name": "tweed4_tailor_coat",
+    "version": "1.1.3+mc22w17a"
+  },
+  {
+    "modid": "tweed4_tailor_screen",
+    "name": "tweed4_tailor_screen",
+    "version": "1.1.3+mc22w17a"
+  },
+  {
+    "modid": "usageticker",
+    "name": "Usage Ticker",
+    "version": "1.0.0-1.19.2"
+  },
+  {
+    "modid": "visualoverhaul",
+    "name": "VisualOverhaul",
+    "version": "4.1.1"
+  },
+  {
+    "modid": "visualworkbench",
+    "name": "Visual Workbench",
+    "version": "4.2.1"
+  },
+  {
+    "modid": "waterdripsound",
+    "name": "Drip Sounds",
+    "version": "1.19-0.3.0"
+  },
+  {
+    "modid": "whats_that_slot",
+    "name": "What\u0027s That Slot?",
+    "version": "1.3.1+1.19.2"
+  },
+  {
+    "modid": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.28.8"
+  },
+  {
+    "modid": "yet-another-config-lib",
+    "name": "YetAnotherConfigLib",
+    "version": "1.7.1"
+  },
+  {
+    "modid": "yungsapi",
+    "name": "YUNG\u0027s API",
+    "version": "1.19.2-Fabric-3.8.2"
+  },
+  {
+    "modid": "zoomify",
+    "name": "Zoomify",
+    "version": "2.9.0"
+  }
+]
